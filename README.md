@@ -34,4 +34,4 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal1309" alt="ujjwal1309" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1309&" alt="ujjwal1309" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1309&" alt="ujjwal1309" /></p>
