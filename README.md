@@ -1,7 +1,7 @@
 ﻿![MasterHead](https://github.com/BEPb/BEPb/raw/main/assets/Bottom_up.svg)
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Ujjwal Sharma</h1>
-<h3 align="center">An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in both front-end and back-end. High adaptability to learn new technologies quickly and pay attention to details. Aims to leverage knowledge and build world-class websites while facilitating organization in achieving functional goals.</h3>
+<h3 align="center">An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in both front-end and back-end. High adaptability to learn new technologies quickly and pay attention to details. Aims to leverage knowledge and build world-class websites while facilitating for organization in achieving its functional goals.</h3>
 
 <br/>
 
