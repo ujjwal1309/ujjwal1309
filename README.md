@@ -7,7 +7,7 @@
 
 <h3 align="center" color:"red">
      <a href="https://github.com/Abhisek753/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ujjwal Sharma ; I am a Fullstack%20Developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ujjwal Sharma ; I am a Fullstack%20Developer 🏻‍💻;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </h3>
       
  <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" height="200px" width="300" align="right" alt="animation"/>
