@@ -10,7 +10,7 @@
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ujjwal Sharma ; I am a Fullstack%20Developer 🏻‍💻;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </h3>
       
- <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" height="200px" width="300" align="right" alt="animation"/>
+ <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" height="200px" width="300" align="right" alt="animation" autoplay/>
 
 - 🔭 I’m currently working on **Node**
 
@@ -35,6 +35,6 @@
 <a margin="auto" href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a margin="auto" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a margin="auto" href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"> <img height="120px" src="./header/Screenshot.png"></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"> <img height="120px" src="./header/Screenshot.png"></a></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1309&theme=onedark" alt="ujjwal1309" /></p>
