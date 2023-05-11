@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ujjwalsharma1309@gmail.com**
 
-- ⚡ Fun fact **I think I can beat Magnus Carlsen in chess**
+- ⚡ Fun fact **I live in Delhi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
