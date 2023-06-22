@@ -75,7 +75,6 @@ Hands-on experience of working  in teams and collaborate well. Looking forward t
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ujjwal1309&&style=flat-square)  
 
 
   
