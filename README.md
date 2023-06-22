@@ -5,10 +5,10 @@
 <img src=https://user-images.githubusercontent.com/112823546/217016507-da977155-0e3a-48ff-905c-e3eecfdf2b00.png>
   
 
-<a href="https://linkedin.com/in/ankesh-kewat-174147239">
+<a href="https://linkedin.com/in/ujjwal-sharma-367784246">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://ankeshkewat.github.io/" >
+<a href="https://ujjwal1309.github.io/" >
 <img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white target="_blank" alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -20,8 +20,8 @@ Hands-on experience of working  in teams and collaborate well. Looking forward t
 
 
 - ❓ Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA, React, System Design.**
-- 👨‍💻 All of my projects are available at https://ankeshkewat.github.io/
-- 🎗️ Contact me: ankeshkewat966@gmail.com   <a target="_blank" href="https://linkedin.com/in/ankesh-kewat-174147239">LinkedIn</a> <a target="_blank" href="https://github.com/Ankeshkewat" >Github </a>
+- 👨‍💻 All of my projects are available at https://ujjwal1309.github.io/
+- 🎗️ Contact me: ujjwalsharma1309@gmail.com   <a target="_blank" href="https://linkedin.com/in/ujjwal-sharma-367784246">LinkedIn</a> <a target="_blank" href="https://github.com/ujjwal1309" >Github </a>
 
   
 ## Familiar Tech Stack:
